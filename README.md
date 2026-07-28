@@ -3,6 +3,16 @@
 💼 Aspiring Data Analyst | Full-Stack Developer 📍 Based in Tunis, Tunisia<br><br>
 📫 Contact: ounifarah95@gmail.com <br><br>
 
+:
+🛠️ Tech Stack
+- Développement Web : HTML, CSS, JavaScript, PHP, React, Node.js, Express, WordPress
+- Intégration & API : Postman (tests d’API, requêtes HTTP, dépannage)
+- Business Intelligence & Données : Power BI, Microsoft Excel, SSIS, SSMS, SQL, Modélisation de données (staging,entrepôt de données), ETL
+- Bases de Données : MySQL, SQL Server, MongoDB, NoSQL,
+- Langages de Programmation : Python, Java, C, SQL
+- IA Générative & Outils IA : RAG, LLM (Ollama), embeddings et similarité sémantique, LangChain, Hugging Face, Prompt Engineering, GitHub Copilot, ChatGPT
+- Outils & Méthodologie : Git/GitHub, Agile/Scrum, Jira, CRISP-DM
+
 
 
 
