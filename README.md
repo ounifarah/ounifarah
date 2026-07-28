@@ -5,7 +5,7 @@
 
 :
 🛠️ Tech Stack
-- Développement Web : HTML, CSS, JavaScript, PHP, React, Node.js, Express, WordPress
+- Développement Web : HTML, CSS, JavaScript, PHP, React, Node.js, Express, WordPress, Angular
 - Intégration & API : Postman (tests d’API, requêtes HTTP, dépannage)
 - Business Intelligence & Données : Power BI, Microsoft Excel, SSIS, SSMS, SQL, Modélisation de données (staging,entrepôt de données), ETL
 - Bases de Données : MySQL, SQL Server, MongoDB, NoSQL,
