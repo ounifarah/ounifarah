@@ -10,7 +10,7 @@
 - Business Intelligence & Données : Power BI, Microsoft Excel, SSIS, SSMS, SQL, Modélisation de données (staging,entrepôt de données), ETL
 - Bases de Données : MySQL, SQL Server, MongoDB, NoSQL, PostgreSQL
 - Langages de Programmation : Python, Java, C, SQL
-- IA Générative & Outils IA : RAG, LLM (Ollama), embeddings et similarité sémantique, LangChain, Hugging Face, Prompt Engineering, GitHub Copilot, ChatGPT
+- IA Générative & Outils IA : RAG, LLM (Ollama), embeddings et similarité sémantique, Hugging Face, Prompt Engineering, GitHub Copilot, ChatGPT
 - Outils & Méthodologie : Git/GitHub, Agile/Scrum, Jira, CRISP-DM
 
 
