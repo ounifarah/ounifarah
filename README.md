@@ -6,9 +6,10 @@
 :
 🛠️ Tech Stack
 - Développement Web : HTML, CSS, JavaScript, PHP, React, Node.js, Express, WordPress, Angular
+- Développement Mobile : java, Kotlin
 - Intégration & API : Postman (tests d’API, requêtes HTTP, dépannage)
 - Business Intelligence & Données : Power BI, Microsoft Excel, SSIS, SSMS, SQL, Modélisation de données (staging,entrepôt de données), ETL
-- Bases de Données : MySQL, SQL Server, MongoDB, NoSQL,
+- Bases de Données : MySQL, SQL Server, MongoDB, NoSQL, PostgreSQL
 - Langages de Programmation : Python, Java, C, SQL
 - IA Générative & Outils IA : RAG, LLM (Ollama), embeddings et similarité sémantique, LangChain, Hugging Face, Prompt Engineering, GitHub Copilot, ChatGPT
 - Outils & Méthodologie : Git/GitHub, Agile/Scrum, Jira, CRISP-DM
