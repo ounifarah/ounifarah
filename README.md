@@ -6,14 +6,14 @@
 📫 Contact: ounifarah95@gmail.com <br><br>
 
 # 🛠️ Tech Stack:
-- Développement Web : HTML, CSS, JavaScript, PHP, React, Node.js, Express, WordPress, Angular
-- Développement Mobile : java, Kotlin
-- Intégration & API : Postman (tests d’API, requêtes HTTP, dépannage)
-- Business Intelligence & Données : Power BI, Microsoft Excel, SSIS, SSMS, SQL, Modélisation de données (staging,entrepôt de données), ETL
-- Bases de Données : MySQL, SQL Server, MongoDB, NoSQL, PostgreSQL
-- Langages de Programmation : Python, Java, C, SQL
-- IA Générative & Outils IA : RAG, LLM (Ollama), embeddings et similarité sémantique, Hugging Face, Prompt Engineering, GitHub Copilot, ChatGPT
-- Outils & Méthodologie : Git/GitHub, Agile/Scrum, Jira, CRISP-DM
+- Business Intelligence & Data Analytics: Power BI, DAX, Power Query, Excel, data visualization, KPI dashboards, business reporting
+- Data Engineering & ETL: SSIS, SQL Server, SSMS, ETL pipelines, data cleaning, data transformation, staging areas, data warehouses
+- Data Modeling & Databases: Star schema, dimensional modeling, relational databases, MySQL, SQL Server, PostgreSQL, MongoDB, NoSQL
+- Data Science & Machine Learning: Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, feature engineering, model evaluation
+- Data Applications & Deployment: Streamlit, batch prediction, API integration, GitHub deployment
+- Programming: Python, SQL, Java, C
+- Web Development: HTML, CSS, JavaScript, React, Node.js, Express, Angular, PHP, WordPress
+- AI & Automation: RAG, LLMs, Ollama, embeddings, semantic similarity,
 
 
 
