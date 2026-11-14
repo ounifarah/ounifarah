@@ -28,4 +28,17 @@
 # 📁 Projects:
 🤖 HR Platform — AI-Powered HR & Recruitment Platform
 
-Developed a full-stack HR and recruitment platform that streamlines candidate management, job postings, interviews, leave requests, and HR reporting. Integrated an AI-powered RAG pipeline using Ollama and ChromaDB to analyze, score, and retrieve CVs, along with an intelligent interview chatbot for automated candidate evaluation.
+Developed a full-stack HR and recruitment platform that streamlines candidate management, job postings, interviews, leave requests, and HR reporting. Integrated an AI-powered RAG pipeline using Ollama and ChromaDB to analyze, score, and retrieve CVs, along with an intelligent interview chatbot for automated candidate evaluation. 
+
+<br><br>
+📉 Customer Churn Prediction | Python, XGBoost, Streamlit, Power BI
+
+- Built an end-to-end machine learning pipeline to predict telecom customer churn using Python, scikit-learn, and XGBoost.
+- Cleaned data and engineered customer behavior features, including tenure groups, service count, and average monthly spending.
+- Compared Logistic Regression, Random Forest, and XGBoost models; achieved **0.847 ROC-AUC** on a held-out test set.
+- Used SHAP explainability to identify the features influencing churn predictions.
+- Developed and deployed an interactive Streamlit application that returns churn probability and customer risk level.
+- Created a Power BI dashboard to analyze churn patterns by contract type, tenure, payment method, and predicted risk.
+- Added batch prediction functionality for scoring the full customer dataset.
+
+[Live Demo](https://churn-predicton-g2ecmqrvm6gorvnm7lwoua.streamlit.app/)
