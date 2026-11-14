@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Business Intelligence Student at the Faculty of Economic Sciences and Management of Tunis (FSEGT)<br><br>
-💼 Aspiring Data Analyst | Full-Stack Developer 📍 Based in Tunis, Tunisia<br><br>
+💼 Data Scientist | Full-Stack Developer 📍 Based in Tunis, Tunisia<br><br>
 📫 Contact: ounifarah95@gmail.com <br><br>
 
 # 🛠️ Tech Stack:
