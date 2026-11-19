@@ -42,3 +42,15 @@ Developed a full-stack HR and recruitment platform that streamlines candidate ma
 - Added batch prediction functionality for scoring the full customer dataset.
 
 [Live Demo](https://churn-predicton-g2ecmqrvm6gorvnm7lwoua.streamlit.app/)
+
+<br><br>
+
+📉 Tunisia Weather & Air Quality Monitor | Python, Streamlit, PostgreSQL, Docker, Airflow
+
+- Built an end-to-end weather and air-quality data pipeline covering all **24 Tunisian governorates** using Python and Open-Meteo APIs.
+- Developed an automated ETL process to extract, clean, transform, and upsert hourly weather and CAMS air-quality data into PostgreSQL.
+- Implemented data validation, API retry handling, duplicate prevention, and scheduled daily updates with Apache Airflow.
+- Developed and deployed an interactive Streamlit dashboard for monitoring temperature, humidity, wind speed, PM10, and PM2.5.
+- Visualized real-time rankings, trends, average city measurements, and governorate locations on an interactive map.
+- Added configurable city filters, a tabbed interface, and CSV export for historical analysis.
+[Live Demo](https://weather-air-quality-c3jg846wcjhwdcjyb75dg3.streamlit.app/)
