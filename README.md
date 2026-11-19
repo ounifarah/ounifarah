@@ -53,4 +53,6 @@ Developed a full-stack HR and recruitment platform that streamlines candidate ma
 - Developed and deployed an interactive Streamlit dashboard for monitoring temperature, humidity, wind speed, PM10, and PM2.5.
 - Visualized real-time rankings, trends, average city measurements, and governorate locations on an interactive map.
 - Added configurable city filters, a tabbed interface, and CSV export for historical analysis.
+  <br>
+
 [Live Demo](https://weather-air-quality-c3jg846wcjhwdcjyb75dg3.streamlit.app/)
