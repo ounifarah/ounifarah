@@ -2,7 +2,7 @@
 🎓 Business Intelligence Student at the Faculty of Economic Sciences and Management of Tunis (FSEGT)<br><br>
 🎓 TEK-UP Student
 <br><br>
-💼 Data Scientist | Full-Stack Developer 📍 Based in Tunis, Tunisia<br><br>
+💼 Data Scientist | 📍 Based in Tunis, Tunisia<br><br>
 📫 Contact: ounifarah95@gmail.com <br><br>
 
 # 🛠️ Tech Stack:
